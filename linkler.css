@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.ul{
+    
+            list-style: none;
+
+    
+           
+       }
+       li{
+           display: inline-block;
+           float:left;
+         
+           margin-right: 1px;
+            
+       }
+       li a{
+           display: inline-block;
+           text-decoration: none;
+           background-color: blue;
+           color: white;
+           width: 150px;
+           height: 30px;           
+           line-height: 30px;
+           text-align: center;
+          
+          
+       }
+       li a:hover{
+           background: 	#1DE9B6;
+       }
+
+.nav{
+    display: inline-block;
+    width: 1500px;
+    margin-left: 230px;
+   margin-top: 10px;
+   
+    
+}
